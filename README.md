@@ -2,4 +2,4 @@
 
 Este es un proyecto que hice para Acamica....
 
-![](https://imgur.com/dQeb2J4)
+![](https://i.imgur.com/dQeb2J4.png)
